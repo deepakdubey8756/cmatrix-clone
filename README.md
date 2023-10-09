@@ -1,2 +1,3 @@
 # cmatrix-clone
-clone of famous terminal program cmatrix in python. It displays falling characters.
+A cmatrix clone to simulate falling random characters using terminal. It is written in c++ and python. 
+Note: It is written for only linux based systems.
